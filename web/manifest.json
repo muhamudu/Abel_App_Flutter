@@ -1,6 +1,6 @@
 {
-    "name": "live_clean",
-    "short_name": "live_clean",
+    "name": "shopping",
+    "short_name": "shopping",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

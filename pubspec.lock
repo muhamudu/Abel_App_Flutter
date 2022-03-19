@@ -105,14 +105,14 @@ packages:
       name: cupertino_icons
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.1.3"
+    version: "0.1.2"
   dropdown_button2:
     dependency: "direct main"
     description:
       name: dropdown_button2
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.2.2"
+    version: "1.1.1"
   email_validator:
     dependency: "direct main"
     description:
@@ -176,7 +176,7 @@ packages:
       name: flutter_rating_bar
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.3.0+1"
+    version: "1.2.0"
   flutter_svg:
     dependency: transitive
     description:
@@ -200,7 +200,7 @@ packages:
       name: fluttertoast
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "8.0.9"
+    version: "8.0.8"
   font_awesome_flutter:
     dependency: "direct main"
     description:
@@ -544,7 +544,7 @@ packages:
       name: validation_textformfield
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.9"
+    version: "1.1.7"
   validators:
     dependency: "direct main"
     description:
