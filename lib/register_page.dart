@@ -70,9 +70,9 @@ class _RegisterPageState extends State<RegisterPage> {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Text(
-                              'Register new\naccount',
+                              'Register new account',
                               style: heading2.copyWith(
-                                  color: Color.fromARGB(255, 0, 255, 255)),
+                                  color: Color.fromARGB(255, 1, 99, 99)),
                             ),
                             SizedBox(
                               height: 20,
